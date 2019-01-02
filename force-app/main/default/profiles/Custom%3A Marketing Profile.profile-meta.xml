@@ -16,6 +16,11 @@
         <field>Expense__c.Approved__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Expense__c.Dummy__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Expense__c-Expense Layout</layout>
     </layoutAssignments>
