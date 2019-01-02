@@ -1,0 +1,387 @@
+[
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546465856907,
+            "changeTime": 1546465856907,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546465856908,
+            "changeTime": 1546465856908,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131747,
+            "changeTime": 1546467131747,
+            "contentHash": "bad3a016c41c03fd5382d92ee60ce3b79e3a0121",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546465857012,
+            "changeTime": 1546465857012,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546466088179,
+            "changeTime": 1546466088179,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1546467131592,
+            "changeTime": 1546467131592,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2149,
+            "modifiedTime": 1546467131606,
+            "changeTime": 1546467131606,
+            "contentHash": "2096e362e14fb1e2d58add607d160c098b62eeb7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1546467131610,
+            "changeTime": 1546467131610,
+            "contentHash": "c53809961f3e1f73b18af3f712f7095729852eff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Approved__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Approved__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1546467131704,
+            "changeTime": 1546467131704,
+            "contentHash": "a0dc810fc6e698fe8885137b288518f78d97a102",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1546467131714,
+            "changeTime": 1546467131714,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3063,
+            "modifiedTime": 1546467571882,
+            "changeTime": 1546467571882,
+            "contentHash": "db5c8ee9a6f978ed892731bb6f0568294d024019"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\flexipages\\Archima_Expenses_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\flexipages\\Archima_Expenses_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 511,
+            "modifiedTime": 1546467131731,
+            "changeTime": 1546467131731,
+            "contentHash": "801c90904f582662b839c93efe3d1a014e41ceca",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\tabs\\Expense__c.tab-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\tabs\\Expense__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1546467131737,
+            "changeTime": 1546467131737,
+            "contentHash": "9b139f7ffd1bf10acd2b1e0bde0bb2e89d82b4d0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\applications\\Archima_Expenses.app-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\applications\\Archima_Expenses.app-meta.xml",
+            "isDirectory": false,
+            "size": 616,
+            "modifiedTime": 1546467131742,
+            "changeTime": 1546467131742,
+            "contentHash": "e12e89607db67a4edddb5f0dada1abe836557149",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5654,
+            "modifiedTime": 1546467571893,
+            "changeTime": 1546467571893,
+            "contentHash": "ab90ec5d2fc3bd2aa0672a07a205839cb3ec6a6e"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5316,
+            "modifiedTime": 1546467571899,
+            "changeTime": 1546467571899,
+            "contentHash": "783d302b5d42772fd33faea746cb247545aa0590"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19792,
+            "modifiedTime": 1546467571943,
+            "changeTime": 1546467571943,
+            "contentHash": "b462b356d632dc4d57a4875b1fc4ab2d5993a63f"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5316,
+            "modifiedTime": 1546467571950,
+            "changeTime": 1546467571950,
+            "contentHash": "783d302b5d42772fd33faea746cb247545aa0590"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131591,
+            "changeTime": 1546467131591,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131705,
+            "changeTime": 1546467131705,
+            "contentHash": "ab111c900533b0b8cb313ac3d5760ae185266359",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131600,
+            "changeTime": 1546467131600,
+            "contentHash": "e81264004cbb92bbb92fc7862be7e9dbd66da477",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546467571872,
+            "changeTime": 1546467571872,
+            "contentHash": "47f01bd9fd6c5e142119580a486f1ab2c87680d3"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\listViews",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131705,
+            "changeTime": 1546467131705,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131724,
+            "changeTime": 1546467131724,
+            "contentHash": "e15ea744300e5f3377055aaf1ccbeb54606bbf43",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131730,
+            "changeTime": 1546467131730,
+            "contentHash": "55da6a346c066cdb142abaf01b003f363ab532d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131735,
+            "changeTime": 1546467131735,
+            "contentHash": "db3a225c5eb659da5c801daabda3f731f6107666",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131741,
+            "changeTime": 1546467131741,
+            "contentHash": "cd313d0835ce17b9c708d24036f4964881617c06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546467131783,
+            "changeTime": 1546467131783,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Dummy__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\archimademo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Dummy__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 395,
+            "modifiedTime": 1546467571877,
+            "changeTime": 1546467571877,
+            "contentHash": "b1333a4b8db195f51249da11e35f4e9c49b2be34"
+        }
+    ]
+]
